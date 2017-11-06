@@ -4,7 +4,7 @@ import sprites.*;
 import org.gamecontrolplus.*;
 import ddf.minim.*;
 
-Sprite ship, monster, monster1;
+Sprite ship, monster;
 StopWatch stopWatch = new StopWatch();
 
 ControlIO controllIO;
